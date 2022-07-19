@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+    outline: none;
+}
+/* 바디태그 */
+body{
+    background-color: #F5F6F7;
+    font-weight: 300;
+    text-align: center;
+}
+
+/* 메인로고 */
+.mainlogo{
+    margin-top: 80px;
+    width: 230px;
+    height: 45px;
+}
+
+/* 아이디 비번 */
+.field{
+    margin-top: 10px;
+}
+
+#id, #pwd1, #pwd2, #name, #genderSelect{
+    width: 450px;
+    height: 47px;
+    border-color: rgb(243, 241, 241);
+}
+
+
+
+/* 가입하기 버튼 */
+.submit{
+    width: 450px;
+    height: 47px;
+    background-color: rgb(24, 207, 24);
+    color: white;
+    border: none;
+    font-size: large;
+}
+
+/* footer */
+#a, #b, #c, #d, #f{
+    font-size: 12px;
+    text-decoration: none;
+    color: gray;
+}
+
+#navercorp{
+    width: 60px;
+}
